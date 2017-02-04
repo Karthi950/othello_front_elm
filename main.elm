@@ -1,14 +1,9 @@
 
 import Color exposing (..)
 import Html exposing(..)
-import Color exposing (..)
 import Element exposing (..)
 import Collage exposing (..)
 import Html.Events exposing (onClick)
-import Html exposing(..)
-import Color exposing (..)
-import Element exposing (..)
-import Collage exposing (..)
 
 main =
   Html.beginnerProgram {
